@@ -1,0 +1,21 @@
+﻿  SpeakerManger.cpp
+D:\vsPractise\C++_review\C++_review\SpeakerManger.cpp(251,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\vs2019IDE\VC\Tools\MSVC\14.29.30133\include\numeric(34,26): warning C4244: “=”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+D:\vs2019IDE\VC\Tools\MSVC\14.29.30133\include\numeric(43): message : 查看对正在编译的函数 模板 实例化“_Ty std::accumulate<_InIt,_Ty,std::plus<void>>(const _InIt,const _InIt,_Ty,_Fn)”的引用
+          with
+          [
+              _Ty=float,
+              _InIt=std::_Deque_iterator<std::_Deque_val<std::_Deque_simple_types<double>>>,
+              _Fn=std::plus<void>
+          ]
+D:\vsPractise\C++_review\C++_review\SpeakerManger.cpp(116): message : 查看对正在编译的函数 模板 实例化“_Ty std::accumulate<std::_Deque_iterator<std::_Deque_val<std::_Deque_simple_types<double>>>,float>(const _InIt,const _InIt,_Ty)”的引用
+          with
+          [
+              _Ty=float,
+              _InIt=std::_Deque_iterator<std::_Deque_val<std::_Deque_simple_types<double>>>
+          ]
+  C++_review.vcxproj -> D:\vsPractise\C++_review\Debug\C++_review.exe
