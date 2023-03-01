@@ -1,7 +1,12 @@
 ﻿  Manager.cpp
+  Student.cpp
+D:\vsPractise\机房预约系统\机房预约系统\Student.cpp(89,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\vsPractise\机房预约系统\机房预约系统\Student.cpp(251,29): warning C4018: “<=”: 有符号/无符号不匹配
   Teacher.cpp
 D:\vsPractise\机房预约系统\机房预约系统\Teacher.cpp(116,35): warning C4018: “<=”: 有符号/无符号不匹配
+  orderFile.cpp
   预约系统.cpp
 D:\vsPractise\机房预约系统\机房预约系统\预约系统.cpp(198,7): warning C4101: “fId”: 未引用的局部变量
   正在生成代码...
+  LINK : 没有找到 D:\vsPractise\机房预约系统\Debug\机房预约系统.exe 或上一个增量链接没有生成它；正在执行完全链接
   机房预约系统.vcxproj -> D:\vsPractise\机房预约系统\Debug\机房预约系统.exe
